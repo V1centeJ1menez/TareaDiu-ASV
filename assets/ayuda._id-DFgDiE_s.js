@@ -1,0 +1,1 @@
+import{s as e,t}from"./link-C9Z9Tb6I.js";var n=e(),r=()=>(0,n.jsxs)(`div`,{className:`container page`,children:[(0,n.jsx)(`h1`,{className:`page__title`,children:`Artículo no encontrado`}),(0,n.jsx)(t,{to:`/ayuda`,className:`btn btn--secondary`,children:`Volver al centro de ayuda`})]});export{r as notFoundComponent};

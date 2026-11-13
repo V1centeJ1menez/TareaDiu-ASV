@@ -1,0 +1,1 @@
+import{s as e}from"./link-C9Z9Tb6I.js";var t=e(),n={Recibida:`received`,"En revisión":`review`,"Derivada al área responsable":`derived`,Resuelta:`resolved`};function r({estado:e}){return(0,t.jsx)(`span`,{className:`badge badge--${n[e]}`,children:e})}export{r as t};
